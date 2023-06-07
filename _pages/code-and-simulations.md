@@ -25,7 +25,7 @@ Analogue vacuum decay in a 2D Bose-Einstein condensate (feat. oscillons, domain 
   </video>
 </figure>
 
-\
+<br>
 
 ## Binaries driven by stochastic gravitational waves
 
@@ -40,7 +40,7 @@ Or look [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.101
 </div>
 {% endif %}
 
-\
+<br>
 
 ## Gravitational-wave background anisotropies
 
