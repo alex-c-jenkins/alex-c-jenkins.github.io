@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Selected papers only. For a full list, please have a look at my [INSPIRE-HEP author page](https://inspirehep.net/authors/1656809).
+description: Selected papers only. For a full list, please have a look at my <a href="https://inspirehep.net/authors/1656809">INSPIRE-HEP author page</a>.
 years: [2023, 2022, 2021, 2020, 2019, 2018]
 nav: true
 nav_order: 1
