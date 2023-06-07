@@ -26,11 +26,11 @@ Analogue vacuum decay in a 2D Bose-Einstein condensate (feat. oscillons, domain 
 </figure>
 
 \
-\
 
 ## Binaries driven by stochastic gravitational waves
 
 Do you want to know how your favourite binary system evolves when you bathe it in gravitational waves? Click on the link below!
+Or look [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.101103) and [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.064021) for the papers.
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -41,11 +41,11 @@ Do you want to know how your favourite binary system evolves when you bathe it i
 {% endif %}
 
 \
-\
 
 ## Gravitational-wave background anisotropies
 
 Here's a simulated map of the gravitational-wave sky, made by coupling the [Millennium simulation of structure formation](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/) with a model of the cosmic black-hole and neutron-star populations.
+Click [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.063501) for the paper.
 
 <figure>
   <img src="https://alex-c-jenkins.github.io/assets/img/millennium-sgwb.png" width="100%">
