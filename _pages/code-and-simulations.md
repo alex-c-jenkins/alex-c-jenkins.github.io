@@ -42,5 +42,5 @@ Analogue vacuum decay in a 2D Bose-Einstein condensate (feat. domain walls and q
 ## Gravitational-wave background anisotropies
 
 <figure>
-  <img src="https://alex-c-jenkins.github.io/assets/img/millenium-sgwb.png" width="100%">
+  <img src="https://alex-c-jenkins.github.io/assets/img/millennium-sgwb.png" width="100%">
 </figure>
