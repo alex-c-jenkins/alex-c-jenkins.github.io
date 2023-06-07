@@ -9,9 +9,19 @@ nav_order: 3
 
 ## Lattice simulations of vacuum decay
 
+Vacuum decay of a 2D Klein-Gordon field (feat. oscillons and domain walls).
+
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="assets/img/fvd-preview.png">
     <source src="assets/video/fvd.mp4" type="video/mp4">
+  </video>
+</figure>
+
+Analogue vacuum decay in a 2D Bose-Einstein condensate (feat. domain walls and quantum vortices).
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="assets/img/analogue-fvd-preview.png">
+    <source src="assets/video/analogue-fvd.mp4" type="video/mp4">
   </video>
 </figure>
 
