@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dept. of Physics and Astronomy</p>
+    <p>University College London</p>
+    <p>London WC1E 6BT, UK</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a theoretical physicist with broad interests in gravity, cosmology, and high-energy physics. My research looks at novel ways of probing the fundamental laws of Nature, whether by using gravitational waves as powerful new astronomical messengers, or by using cutting-edge quantum technologies to simulate the early Universe.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently working on false vacuum decay, a fascinating quantum-mechanical phenomenon that is a ubiquitous feature of early-Universe cosmology. As a member of the [Quantum Simulators for Fundamental Physics (QSimFP) Consortium](https://qsimfp.org/), I am helping to develop laboratory experiments that will empirically test our understanding of false vacuum decay for the first time. These experiments could have important and far-reaching implications for areas ranging from inflation and the multiverse to the stability of the electroweak vacuum.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Another key focus of my research is gravitational-wave astronomy. I am particularly interested in using gravitational-wave observations to probe cosmology and fundamental physics, for example by searching for exotic sources like cosmic strings and primordial black holes, or by using gravitational-wave sources as [tracers of cosmic structure formation](https://inspirehep.net/literature/2127416). I was recently awarded a [Buchalter Cosmology Prize](http://www.buchaltercosmologyprize.org/) (2nd prize) for my work on detecting gravitational waves via [their effect on binary systems](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.101103).
+
+You can find a full list of my publications on [my INSPIRE-HEP author page](https://inspirehep.net/authors/1656809).
