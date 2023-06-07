@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://alex-c-jenkins.github.io/sitemap.xml
