@@ -25,7 +25,7 @@ Analogue vacuum decay in a 2D Bose-Einstein condensate (feat. domain walls and q
   </video>
 </figure>
 
-## Evolution of binaries coupled to stochastic gravitational waves
+## Evolution of binaries driven by stochastic gravitational waves
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
