@@ -25,4 +25,4 @@ I am currently working on false vacuum decay, a fascinating quantum-mechanical p
 
 Another key focus of my research is gravitational-wave astronomy. I am particularly interested in using gravitational-wave observations to probe cosmology and fundamental physics, for example by searching for exotic sources like cosmic strings and primordial black holes, or by using gravitational-wave sources as [tracers of cosmic structure formation](https://inspirehep.net/literature/2127416). I was recently awarded a [Buchalter Cosmology Prize](http://www.buchaltercosmologyprize.org/) (2nd prize) for my work on detecting gravitational waves via [their effect on binary systems](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.101103).
 
-You can find a full list of my publications on [my INSPIRE-HEP author page](https://inspirehep.net/authors/1656809).
+I did my PhD in Theoretical Physics at King's College London (2017-2021), under the supervision of Prof Mairi Sakellariadou. Before that, I did my BA and MSci in Astrophysics at the University of Cambridge (2013-2017).
