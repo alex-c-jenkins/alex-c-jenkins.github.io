@@ -29,7 +29,7 @@ Analogue vacuum decay in a 2D Bose-Einstein condensate (feat. oscillons, domain 
 
 ## Binaries driven by stochastic gravitational waves
 
-Do you want to know how your favourite binary system evolves when you bathe it in gravitational waves? Click on the link below!
+Do you want to know what happens to your favourite binary system when you bathe it in gravitational waves? Click on the link below!
 Or look [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.101103) and [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.064021) for the papers.
 
 {% if site.data.repositories.github_repos %}
