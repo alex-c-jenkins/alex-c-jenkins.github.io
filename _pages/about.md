@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a theoretical physicist with broad interests in gravity, cosmology, and high-energy physics. My research looks at novel ways of probing the fundamental laws of Nature, whether by using gravitational waves as powerful new astronomical messengers, or by using cutting-edge quantum technologies to simulate the early Universe.
+I'm a theoretical physicist with broad interests in gravity, cosmology, and high-energy physics, currently working as a Postdoctoral Research Fellow at University College London (UCL). My research looks at novel ways of probing the fundamental laws of Nature, whether by using gravitational waves as powerful new astronomical messengers, or by using cutting-edge quantum technologies to simulate the early Universe.
 
 I am currently working on false vacuum decay, a fascinating quantum-mechanical phenomenon that is a ubiquitous feature of early-Universe cosmology. As a member of the [Quantum Simulators for Fundamental Physics (QSimFP) Consortium](https://qsimfp.org/), I am helping to develop laboratory experiments that will empirically test our understanding of false vacuum decay for the first time. These experiments could have important and far-reaching implications for areas ranging from inflation and the multiverse to the stability of the electroweak vacuum.
 
