@@ -17,7 +17,7 @@ Vacuum decay of a 2D Klein-Gordon field (feat. oscillons and domain walls).
   </video>
 </figure>
 
-Analogue vacuum decay in a 2D Bose-Einstein condensate (feat. oscillons, domain walls, and quantum vortices).
+Analogue vacuum decay in a 2D atomic Bose-Einstein condensate (feat. oscillons, domain walls, and quantum vortices).
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="https://alex-c-jenkins.github.io/assets/img/analogue-fvd-preview.png" width="100%">
