@@ -44,7 +44,7 @@ Or look [here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.101
 
 ## Gravitational-wave background anisotropies
 
-Here's a simulated map of the gravitational-wave sky, made by coupling the [Millennium simulation of structure formation](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/) with a model of the cosmic black-hole and neutron-star populations.
+Here's a simulated map of the gravitational-wave sky, made by coupling the [Millennium simulation of structure formation](https://wwwmpa.mpa-garching.mpg.de/galform/virgo/millennium/) with a model of the cosmic populations of black holes and neutron stars.
 Click [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.063501) for the paper.
 
 <figure>
