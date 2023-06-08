@@ -13,7 +13,7 @@ nav_order: 3
   </a>
 </figure>
 
-\
+<br>
 
 <figure>
   <a href="https://physics.aps.org/articles/v15/34">
@@ -21,7 +21,7 @@ nav_order: 3
   </a>
 </figure>
 
-\
+<br>
 
 <figure>
   <a href="https://www.syfy.com/syfy-wire/measuring-gravity-waves-using-lasers-and-the-moon">
@@ -29,7 +29,7 @@ nav_order: 3
   </a>
 </figure>
 
-\
+<br>
 
 <figure>
   <a href="https://www.express.co.uk/news/science/1585833/moon-experiment-detect-gravitational-waves-supermassive-black-holes">
@@ -37,7 +37,7 @@ nav_order: 3
   </a>
 </figure>
 
-\
+<br>
 
 <figure>
   <a href="https://www.ucl.ac.uk/cosmoparticle/news/2023/jan/alexander-jenkins-recognized-2022-buchalter-cosmology-prizes">
