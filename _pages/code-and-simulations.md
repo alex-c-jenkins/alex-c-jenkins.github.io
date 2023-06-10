@@ -12,7 +12,7 @@ nav_order: 3
 Vacuum decay of a 2D Klein-Gordon field (feat. oscillons and domain walls).
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="https://alex-c-jenkins.github.io/assets/img/bubbles-cropped-preview.png" width="100%">
+  <video controls="true" allowfullscreen="true" poster="https://alex-c-jenkins.github.io/assets/img/bubbles-cropped-preview.png" width="80%">
     <source src="https://alex-c-jenkins.github.io/assets/video/bubbles-cropped.mp4" type="video/mp4">
   </video>
 </figure>
@@ -20,7 +20,7 @@ Vacuum decay of a 2D Klein-Gordon field (feat. oscillons and domain walls).
 Analogue vacuum decay in a 2D atomic Bose-Einstein condensate (feat. oscillons, domain walls, and quantum vortices).
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="https://alex-c-jenkins.github.io/assets/img/analogue-bubbles-cropped-preview.png" width="100%">
+  <video controls="true" allowfullscreen="true" poster="https://alex-c-jenkins.github.io/assets/img/analogue-bubbles-cropped-preview.png" width="80%">
     <source src="https://alex-c-jenkins.github.io/assets/video/analogue-bubbles-cropped.mp4" type="video/mp4">
   </video>
 </figure>
