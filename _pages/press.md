@@ -1,11 +1,23 @@
 ---
 layout: page
 permalink: /press/
-title: Press
-description: Some popular articles and press releases about my work
+title: Press and Outreach
+description: Click on the images below to see some public outreach I've done, as well as popular articles and press releases about my work
 nav: true
 nav_order: 3
 ---
+
+<figure>
+  <a href="https://www.youtube.com/watch?v=cED0VAiEIE8&ab_channel=DrTricks">
+  <img src="https://alex-c-jenkins.github.io/assets/img/youtube.png" width="100%">
+  </a>
+</figure>
+
+<figure>
+  <a href="https://ras.ac.uk/news-and-press/news/using-gravitational-waves-hunt-dark-matter">
+  <img src="https://alex-c-jenkins.github.io/assets/img/ras.png" width="100%">
+  </a>
+</figure>
 
 <figure>
   <a href="https://bigthink.com/hard-science/moon-gravitational-wave-detector/">
