@@ -10,7 +10,7 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
   
-Selected papers only. For a full list, please have a look at my <a href="https://inspirehep.net/authors/1656809">INSPIRE-HEP author page</a>.
+Selected papers only. For a full list, and for citation statistics, please have a look at my <a href="https://inspirehep.net/authors/1656809">INSPIRE-HEP author page</a>.
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
