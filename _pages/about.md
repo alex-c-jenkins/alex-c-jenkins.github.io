@@ -9,9 +9,7 @@ profile:
   image: blackboard.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Dept. of Physics and Astronomy</p>
-    <p>University College London</p>
-    <p>London WC1E 6BT, UK</p>
+    <p>Dept. of Physics and Astronomy, University College London, London WC1E 6BT, UK</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
