@@ -2,7 +2,7 @@
 layout: page
 permalink: /press/
 title: Press and Outreach
-description: Click on the images below to see some public outreach I've done, as well as popular articles and press releases about my work
+description: Click on the images below to see some public outreach I've done, as well as popular articles and press releases about my work.
 nav: true
 nav_order: 3
 ---
