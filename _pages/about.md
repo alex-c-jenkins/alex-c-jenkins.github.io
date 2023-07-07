@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile-pic.png
+  image: blackboard.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Dept. of Physics and Astronomy</p>
