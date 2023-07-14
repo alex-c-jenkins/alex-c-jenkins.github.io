@@ -13,15 +13,27 @@ nav_order: 3
   </a>
 </figure>
 
+<br>
+
 <figure>
   <a href="https://ras.ac.uk/news-and-press/news/using-gravitational-waves-hunt-dark-matter">
   <img src="https://alex-c-jenkins.github.io/assets/img/ras.png" width="100%">
   </a>
 </figure>
 
+<br>
+
 <figure>
   <a href="https://bigthink.com/hard-science/moon-gravitational-wave-detector/">
   <img src="https://alex-c-jenkins.github.io/assets/img/big-think.png" width="100%">
+  </a>
+</figure>
+
+<br>
+
+<figure>
+  <a href="https://www.freethink.com/space/gravitational-waves">
+  <img src="https://alex-c-jenkins.github.io/assets/img/freethink.png" width="100%">
   </a>
 </figure>
 
