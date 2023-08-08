@@ -24,6 +24,14 @@ nav_order: 3
 <br>
 
 <figure>
+  <a href="https://www.ucl.ac.uk/news/2023/aug/gravitational-waves-may-reveal-nature-dark-matter">
+  <img src="https://alex-c-jenkins.github.io/assets/img/ucl-gw-dm.png" width="100%">
+  </a>
+</figure>
+
+<br>
+
+<figure>
   <a href="https://bigthink.com/hard-science/moon-gravitational-wave-detector/">
   <img src="https://alex-c-jenkins.github.io/assets/img/big-think.png" width="100%">
   </a>
