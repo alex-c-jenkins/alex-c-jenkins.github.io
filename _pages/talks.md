@@ -9,8 +9,4 @@ nav_order: 3
 
 ## Talk at the 4th EuCAPT Symposium on "Cold-atom analogues for vacuum decay"
 
-<figure>
-  <a href="https://cds.cern.ch/record/2897914">
-  <img src="https://alex-c-jenkins.github.io/assets/img/eucapt.png" width="100%">
-  </a>
-</figure>
+<iframe src="https://mediastream.cern.ch/MediaArchive/Video/Public2/weblecture-player/index.html?year=2024&lecture=1335106c143" width="1020px" height="600px" allowfullscreen scrolling="no" frameborder="0"></iframe>
