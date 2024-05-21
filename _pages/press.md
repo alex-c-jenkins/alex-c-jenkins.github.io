@@ -7,11 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-<figure>
-  <a href="https://www.youtube.com/watch?v=cED0VAiEIE8&ab_channel=DrTricks">
-  <img src="https://alex-c-jenkins.github.io/assets/img/youtube.png" width="100%">
-  </a>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cED0VAiEIE8?si=8PE9NSiZdtsVyRh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
