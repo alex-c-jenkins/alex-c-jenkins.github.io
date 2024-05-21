@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /code-and-simulations/
-title: Code and Simulations
+permalink: /code/
+title: Code
 description: Various numerical things I've worked on.
 nav: true
 nav_order: 3
