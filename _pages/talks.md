@@ -9,4 +9,4 @@ nav_order: 3
 
 ## Talk at the 4th EuCAPT Symposium on "Cold-atom analogues for vacuum decay"
 
-<iframe src="https://mediastream.cern.ch/MediaArchive/Video/Public2/weblecture-player/index.html?year=2024&lecture=1335106c143" width="1020px" height="600px" allowfullscreen scrolling="no" frameborder="0"></iframe>
+<iframe src="https://mediastream.cern.ch/MediaArchive/Video/Public2/weblecture-player/index.html?year=2024&lecture=1335106c143" width="100%" allowfullscreen scrolling="no" frameborder="0"></iframe>
