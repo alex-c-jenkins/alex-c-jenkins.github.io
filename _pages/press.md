@@ -4,7 +4,7 @@ permalink: /press/
 title: Press and Outreach
 description: Click below to see some public outreach I've done, as well as popular articles and press releases about my work.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <figure>
