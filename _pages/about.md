@@ -23,7 +23,8 @@ I'm a theoretical physicist, working at the interface between <em>cosmology</em>
 </p>
 
 <p>
-I'm currently a Postdoctoral Research Fellow and member of the <a href="https://www.ucl.ac.uk/cosmoparticle/">Cosmoparticle Initiative</a> at University College London (UCL). In October 2024 I'll be moving to the University of Cambridge as a Gavin Boyle Fellow at the <a href="https://www.kicc.cam.ac.uk/">Kavli Institute for Cosmology</a> and <a href="https://www.damtp.cam.ac.uk/">DAMTP</a>.
+I'm currently based at the University of Cambridge, where I hold the Gavin Boyle Fellowship in Cosmology at the <a href="https://www.kicc.cam.ac.uk/">Kavli Institute for Cosmology</a> and the <a href="https://www.damtp.cam.ac.uk/">Department of Applied Mathematics and Theoretical Physics</a> (DAMTP).
+I have also recently been awarded a UKRI Stephen Hawking Fellowship, and am a Fellow of <a href="https://www.sel.cam.ac.uk/">Selwyn College</a>.
 </p>
 
 <p>
@@ -35,6 +36,6 @@ Another key focus of my research is <em>gravitational-wave astronomy</em>. I am 
 </p>
 
 <p>
-I did my PhD in Theoretical Physics at King's College London (2017-2021), under the supervision of Prof Mairi Sakellariadou. Before that, I did my BA and MSci in Astrophysics at the University of Cambridge (2013-2017).
+I was previously a Postdoctoral Research Fellow in the <a href="https://www.ucl.ac.uk/cosmoparticle">Cosmoparticle Initiative</a> at University College London. I did my PhD in Theoretical Physics at King's College London (2017-2021), under the supervision of Prof Mairi Sakellariadou. Before that, I did my BA and MSci in Astrophysics at the University of Cambridge (2013-2017).
 </p>
 </div>
