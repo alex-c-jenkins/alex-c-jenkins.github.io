@@ -23,7 +23,7 @@ I'm a theoretical physicist, working at the interface between <em>cosmology</em>
 </p>
 
 <p>
-I'm currently based at the University of Cambridge, where I hold the Gavin Boyle Fellowship in Cosmology at the <a href="https://www.kicc.cam.ac.uk/">Kavli Institute for Cosmology</a> and the <a href="https://www.damtp.cam.ac.uk/">Department of Applied Mathematics and Theoretical Physics</a> (DAMTP).
+I'm currently based at the University of Cambridge, where I hold the Gavin Boyle Fellowship in Cosmology at the <a href="https://www.kicc.cam.ac.uk/">Kavli Institute for Cosmology</a> (KICC) and the <a href="https://www.damtp.cam.ac.uk/">Department of Applied Mathematics and Theoretical Physics</a> (DAMTP).
 I have also recently been awarded a UKRI Stephen Hawking Fellowship.
 I am a Fellow of <a href="https://www.sel.cam.ac.uk/">Selwyn College</a>.
 </p>
