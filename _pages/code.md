@@ -12,7 +12,7 @@ nav_order: 3
 Vacuum decay of a 2D Klein-Gordon field (featuring oscillons and domain walls).
 
 <figure class="video_container" style="text-align:center;">
-  <video controls="true" allowfullscreen="true" poster="https://alex-c-jenkins.github.io/assets/img/cos-phi-preview.png" width="80%">
+  <video controls="true" allowfullscreen="true" poster="https://alex-c-jenkins.github.io/assets/img/cos-phi-preview.png" width="100%">
     <source src="https://alex-c-jenkins.github.io/assets/video/cos-phi.mp4" type="video/mp4">
   </video>
 </figure>
