@@ -9,13 +9,13 @@ nav_order: 4
 
 Unpacking the science behind Conrad Shawcross' artwork "The Blind Proliferation", as part of the [Cosmic Titans exhibition](https://www.lakesidearts.org.uk/exhibition/cosmictitans/) at Lakeside Arts, Nottingham.
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/zXiF8eyKB7A?si=67Dl6dEbOMQgOVgo&amp;start=142" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/zXiF8eyKB7A?start=142&end=270&modestbranding=1&rel=0&color=white" width="100%" height="450" title="Quantum Concepts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 Video interview about my research on "Early Universe Cosmology in the Lab".
 
-<iframe width="100%" height="450" src="https://www.youtube.com/embed/cED0VAiEIE8?si=8PE9NSiZdtsVyRh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/cED0VAiEIE8?si=8PE9NSiZdtsVyRh8&modestbranding=1&rel=0&color=white" width="100%" height="450" title="Early Universe Cosmology in the Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
