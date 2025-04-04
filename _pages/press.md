@@ -9,6 +9,12 @@ nav_order: 4
 
 Unpacking the science behind Conrad Shawcross' artwork "The Blind Proliferation", as part of the [Cosmic Titans exhibition](https://www.lakesidearts.org.uk/exhibition/cosmictitans/) at Lakeside Arts, Nottingham.
 
+<figure class="video_container" style="text-align:center;">
+  <video controls="true" allowfullscreen="true" poster="https://alex-c-jenkins.github.io/assets/img/cos-phi-preview.png" width="80%">
+    <source src="https://www.youtube.com/embed/zXiF8eyKB7A?start=142&end=270&modestbranding=1&rel=0&color=white">
+  </video>
+</figure>
+
 <iframe src="https://www.youtube.com/embed/zXiF8eyKB7A?start=142&end=270&modestbranding=1&rel=0&color=white" width="100%" height="450" title="Quantum Concepts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
