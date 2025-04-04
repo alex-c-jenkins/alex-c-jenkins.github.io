@@ -9,20 +9,21 @@ nav_order: 4
 
 Unpacking the science behind Conrad Shawcross' artwork "The Blind Proliferation", as part of the [Cosmic Titans exhibition](https://www.lakesidearts.org.uk/exhibition/cosmictitans/) at Lakeside Arts, Nottingham.
 
-<div onclick="play();" id="vidwrap" style="height:315px;width:560px;background: black url('https://alex-c-jenkins.github.io/assets/img/ras.png') no-repeat center;overflow:hidden;cursor:pointer;"></div>
-<script type="text/javascript">
-    function play(){
-        document.getElementById('vidwrap').innerHTML = '<iframe src="https://www.youtube.com/embed/zXiF8eyKB7A?start=142&end=270&modestbranding=1&rel=0&color=white" width="560" height="450" title="Quantum Concepts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>';
-    }
-</script>
-
-<iframe src="https://www.youtube.com/embed/zXiF8eyKB7A?start=142&end=270&modestbranding=1&rel=0&color=white" width="100%" height="450" title="Quantum Concepts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figure>
+  <a href="https://www.youtube.com/embed/zXiF8eyKB7A?start=142&end=270&modestbranding=1&rel=0&color=white&autoplay=1">
+  <img src="https://alex-c-jenkins.github.io/assets/img/youtube-cosmic-titans.png" width="100%">
+  </a>
+</figure>
 
 <br>
 
 Video interview about my research on "Early Universe Cosmology in the Lab".
 
-<iframe src="https://www.youtube.com/embed/cED0VAiEIE8?si=8PE9NSiZdtsVyRh8&modestbranding=1&rel=0&color=white" width="100%" height="450" title="Early Universe Cosmology in the Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<figure>
+  <a href="https://www.youtube.com/embed/cED0VAiEIE8?si=8PE9NSiZdtsVyRh8&modestbranding=1&rel=0&color=white&autoplay=1">
+  <img src="https://alex-c-jenkins.github.io/assets/img/youtube-early-universe.png" width="100%">
+  </a>
+</figure>
 
 <br>
 
