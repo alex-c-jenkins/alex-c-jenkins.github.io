@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 <div style="text-align: justify">
 <p>
-I'm a theoretical physicist, working at the interface between <em>cosmology</em>, <em>astrophysics</em>, <em>high-energy physics</em>, and <em>quantum matter</em>. My research looks at new ways of probing the fundamental laws of Nature, whether by using <em>gravitational waves</em> as powerful new astronomical messengers, or by using cutting-edge <em>quantum technologies</em> to simulate the early Universe.
+I'm a theoretical physicist, working at the interface between <em>cosmology</em>, <em>high-energy physics</em>, and <em>quantum matter</em>. My research looks at new ways of probing the fundamental laws of Nature, whether that's using <em>gravitational waves</em> as cosmic messengers, or using <em>quantum technologies</em> to simulate the early Universe.
 </p>
 
 <p>
