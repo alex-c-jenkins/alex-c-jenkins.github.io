@@ -23,8 +23,7 @@ I'm a theoretical physicist, working at the interface between <em>cosmology</em>
 </p>
 
 <p>
-I'm currently based at the University of Cambridge, where I hold the Gavin Boyle Fellowship in Cosmology at the <a href="https://www.kicc.cam.ac.uk/">Kavli Institute for Cosmology</a> (KICC) and the <a href="https://www.damtp.cam.ac.uk/">Department of Applied Mathematics and Theoretical Physics</a> (DAMTP).
-I am also supported by an EPSRC Stephen Hawking Fellowship, and am a Fellow of <a href="https://www.sel.cam.ac.uk/">Selwyn College</a>.
+I'm currently based at the University of Cambridge, where I hold the Gavin Boyle Fellowship in Cosmology at the <a href="https://www.kicc.cam.ac.uk/">Kavli Institute for Cosmology</a> (KICC) and the <a href="https://www.damtp.cam.ac.uk/">Department of Applied Mathematics and Theoretical Physics</a> (DAMTP). I am also supported by an EPSRC Stephen Hawking Fellowship, and am a Fellow of <a href="https://www.sel.cam.ac.uk/">Selwyn College</a>.
 </p>
 
 <p>
@@ -32,7 +31,11 @@ Much of my current work focuses on <em>vacuum decay</em>, a fascinating quantum-
 </p>
 
 <p>
-Another key focus of my research is <em>gravitational-wave astronomy</em>. I am particularly interested in using gravitational-wave observations to probe cosmology and fundamental physics, for example by searching for signals generated in the very early Universe, or by using gravitational-wave sources as <a href="https://inspirehep.net/literature/2127416">tracers of cosmic structure formation</a>. In 2023 I was awarded a <a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize</a> (2nd prize) for my work on detecting gravitational waves via <a href="https://doi.org/10.1103/PhysRevLett.128.101103">their effect on binary systems</a>.
+Another key focus of my research is <em>gravitational-wave astronomy</em>. I am particularly interested in using gravitational-wave observations to probe cosmology and fundamental physics, for example by searching for signals generated in the very early Universe, or by using gravitational-wave sources as <a href="https://inspirehep.net/literature/2127416">tracers of cosmic structure formation</a>. In 2023 I was awarded a <a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize</a> (2nd prize) for my work on detecting gravitational waves via <a href="https://doi.org/10.1103/PhysRevLett.128.101103">their effect on binary systems</a>. I am now part of an international team of 40+ scientists developing the GUEST mission concept (Gravitational Universe Exploration with Satellite Tracking), which will use these ideas to search for microhertz gravitational waves, ultralight dark matter, and deviations from general relativity.
+</p>
+
+<p>
+I'm a core organiser of <a href="https://camgw.github.io/camgw-web/">CamGW</a>, an interdepartmental network for gravitational-wave researchers in Cambridge. I'm also a co-organiser of <a href="https://sites.google.com/ligo.org/gwuk/home?authuser=0">GW:UK</a>, which plays a similar role on a national scale, connecting gravitational-wave researchers across the UK.
 </p>
 
 <p>
