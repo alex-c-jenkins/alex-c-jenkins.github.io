@@ -9,7 +9,7 @@ profile:
   image: blackboard.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Kavli Institute for Cosmology and DAMTP | University of Cambridge</p>
+    <p>Gavin Boyle Fellow in Cosmology and EPSRC Stephen Hawking Fellow | Kavli Institute for Cosmology and DAMTP | University of Cambridge</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
