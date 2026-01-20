@@ -30,6 +30,14 @@ Video interview about my research on "Early Universe Cosmology in the Lab".
 News articles and press releases.
 
 <figure>
+  <a href="https://www.kicc.cam.ac.uk/news/kicc-success-esas-2025-call-missions">
+  <img src="https://alex-c-jenkins.github.io/assets/img/kicc-esa.png" width="100%">
+  </a>
+</figure>
+
+<br>
+
+<figure>
   <a href="https://ras.ac.uk/news-and-press/news/using-gravitational-waves-hunt-dark-matter">
   <img src="https://alex-c-jenkins.github.io/assets/img/ras.png" width="100%">
   </a>
