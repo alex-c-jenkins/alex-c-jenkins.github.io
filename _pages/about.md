@@ -35,7 +35,7 @@ Another key focus of my research is <em>gravitational-wave astronomy</em>. I am 
 </p>
 
 <p>
-I'm a core organiser of <a href="https://camgw.github.io/camgw-web/">CamGW</a>, an interdepartmental network for gravitational-wave researchers in Cambridge. I'm also a co-organiser of <a href="https://sites.google.com/ligo.org/gwuk/home?authuser=0">GW:UK</a>, which plays a similar role on a national scale, connecting gravitational-wave researchers across the UK.
+I'm a core organiser of <a href="https://camgw.github.io/camgw-web/">CamGW</a>, an interdepartmental network for gravitational-wave researchers in Cambridge. I'm also a co-organiser of <a href="https://www.gwuk.org/">GW:UK</a>, which plays a similar role on a national scale, connecting gravitational-wave researchers across the UK.
 </p>
 
 <p>
