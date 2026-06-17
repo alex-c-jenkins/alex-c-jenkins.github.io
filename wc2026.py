@@ -74,7 +74,7 @@ scores = scores[ids]
 file = open('_pages/wc2026.md', 'w')
 file.write('---\n')
 file.write('layout: page\n')
-file.write('title: World Cup 2026\n')
+file.write('title: Jenkins World Cup Sweepstake 2026\n')
 file.write('permalink: /wc2026/\n')
 file.write('nav: false\n')
 file.write('---\n')
