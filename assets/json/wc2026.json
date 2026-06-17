@@ -737,9 +737,9 @@
         },
         {
           "team": {
-            "code": "PAN",
-            "name": "Panama",
-            "flag": "🇵🇦"
+            "code": "GHA",
+            "name": "Ghana",
+            "flag": "🇬🇭"
           },
           "played": 0,
           "won": 0,
@@ -752,9 +752,9 @@
         },
         {
           "team": {
-            "code": "GHA",
-            "name": "Ghana",
-            "flag": "🇬🇭"
+            "code": "PAN",
+            "name": "Panama",
+            "flag": "🇵🇦"
           },
           "played": 0,
           "won": 0,
