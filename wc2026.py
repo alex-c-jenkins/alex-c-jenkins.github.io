@@ -38,7 +38,7 @@ for group in data:
         goaldiff[idx] += team['goalDiff']
         scores[idx] += team['won'] + 0.5 * team['drawn']
 
-ids = goaldiff.argsort()[::-1]
+ids = np.argsort(-goaldiff)
 names = names[ids]
 teams = teams[ids]
 flags = flags[ids]
@@ -49,7 +49,7 @@ lost = lost[ids]
 goaldiff = goaldiff[ids]
 scores = scores[ids]
 
-ids = won.argsort()[::-1]
+ids = np.argsort(-won)
 names = names[ids]
 teams = teams[ids]
 flags = flags[ids]
@@ -60,7 +60,7 @@ lost = lost[ids]
 goaldiff = goaldiff[ids]
 scores = scores[ids]
 
-ids = scores.argsort()[::-1]
+ids = np.argsort(-scores)
 names = names[ids]
 teams = teams[ids]
 flags = flags[ids]
@@ -79,8 +79,11 @@ file.write('permalink: /wc2026/\n')
 file.write('nav: false\n')
 file.write('---\n')
 file.write('\n')
-file.write('| Name | Teams | Played | Won | Drawn | Lost | Goal Diff | Score |\n')
-file.write('|------|-------|--------|-----|-------|------|-----------|-------|\n')
+file.write(
+    '| Name | Teams | Score | Played | Won | Drawn | Lost | Goal Diff |\n')
+file.write(
+    '|------|-------|-------|--------|-----|-------|------|-----------|\n')
 for i in range(len(names)):
-    file.write(f'| {names[i]} | {flags[i]} | {int(played[i])} | {int(won[i])} | {int(drawn[i])} | {int(lost[i])} | {int(goaldiff[i])} | {scores[i]:.1f} |\n')
+    file.write(
+        f'| {names[i]} | {flags[i]} | **{scores[i]:.1f}** | {int(played[i])} | {int(won[i])} | {int(drawn[i])} | {int(lost[i])} | {int(goaldiff[i])} |\n')
 file.close()
