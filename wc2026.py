@@ -3,9 +3,9 @@ import json
 import numpy as np
 from os import system
 
-system('claudinho --json --no-color --flavor off table > fwc2026.json')
+system('claudinho --json --no-color --flavor off table > assets/json/wc2026.json')
 
-with open('fwc2026.json', 'r') as f:
+with open('assets/json/wc2026.json', 'r') as f:
     data = json.load(f)['tables']
 
 names = np.array([
@@ -19,6 +19,8 @@ teams = np.array([
     ['NED', 'CAN', 'SCO', 'MEX', 'UZB', 'NZL'],
     ['ENG', 'NOR', 'COL', 'PAR', 'ALG', 'CUW'],
     ['ARG', 'MAR', 'TUR', 'CZE', 'COD', 'HAI']])
+flags = np.array([
+    '🇵🇹🇺🇸🇦🇹🇧🇦🇪🇨🇮🇶', '🇫🇷🇺🇾🇵🇦🇸🇳🇪🇬🇯🇴', '🇩🇪🇧🇪🇰🇷🇸🇪🇮🇷🇸🇦', '🇧🇷🇭🇷🇨🇮🇹🇳🇬🇭🇨🇻', '🇪🇸🇯🇵🇨🇭🇦🇺🇿🇦🇶🇦', '🇳🇱🇨🇦🏴󠁧󠁢󠁳󠁣󠁴󠁿🇲🇽🇺🇿🇳🇿', '🏴󠁧󠁢󠁥󠁮󠁧󠁿🇳🇴🇨🇴🇵🇾🇩🇿🇨🇼', '🇦🇷🇲🇦🇹🇷🇨🇿🇨🇩🇭🇹'])
 played = np.zeros(len(names))
 won = np.zeros(len(names))
 drawn = np.zeros(len(names))
@@ -39,6 +41,7 @@ for group in data:
 ids = goaldiff.argsort()[::-1]
 names = names[ids]
 teams = teams[ids]
+flags = flags[ids]
 played = played[ids]
 won = won[ids]
 drawn = drawn[ids]
@@ -49,6 +52,7 @@ scores = scores[ids]
 ids = won.argsort()[::-1]
 names = names[ids]
 teams = teams[ids]
+flags = flags[ids]
 played = played[ids]
 won = won[ids]
 drawn = drawn[ids]
@@ -59,9 +63,23 @@ scores = scores[ids]
 ids = scores.argsort()[::-1]
 names = names[ids]
 teams = teams[ids]
+flags = flags[ids]
 played = played[ids]
 won = won[ids]
 drawn = drawn[ids]
 lost = lost[ids]
 goaldiff = goaldiff[ids]
 scores = scores[ids]
+
+file = open('_pages/wc2026.md', 'w')
+file.write('---\n')
+file.write('layout: page\n')
+file.write('title: World Cup 2026\n')
+file.write('permalink: /wc2026/\n')
+file.write('---\n')
+file.write('\n')
+file.write('| Name | Teams | Played | Won | Drawn | Lost | Goal Diff | Score |\n')
+file.write('|------|-------|--------|-----|-------|------|-----------|-------|\n')
+for i in range(len(names)):
+    file.write(f'| {names[i]} | {flags[i]} | {int(played[i])} | {int(won[i])} | {int(drawn[i])} | {int(lost[i])} | {int(goaldiff[i])} | {scores[i]:.1f} |\n')
+file.close()
