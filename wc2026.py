@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import json
 import numpy as np
+from datetime import datetime
 from os import system
 
 system('claudinho --json --no-color --flavor off table > assets/json/wc2026.json')
@@ -78,6 +79,10 @@ file.write('title: Jenkins World Cup Sweepstake 2026\n')
 file.write('permalink: /wc2026/\n')
 file.write('nav: false\n')
 file.write('---\n')
+file.write('\n')
+file.write('Table last updated at '
+           + datetime.now().strftime("%H:%M")
+           + ' on ' + datetime.now().strftime("%d %B %Y") + '\n')
 file.write('\n')
 file.write(
     '| Name | Teams | Score | Played | Won | Drawn | Lost | Goal Diff |\n')
