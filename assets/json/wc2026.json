@@ -657,6 +657,21 @@
       "standings": [
         {
           "team": {
+            "code": "COL",
+            "name": "Colombia",
+            "flag": "🇨🇴"
+          },
+          "played": 1,
+          "won": 1,
+          "drawn": 0,
+          "lost": 0,
+          "goalsFor": 3,
+          "goalsAgainst": 1,
+          "goalDiff": 2,
+          "points": 3
+        },
+        {
+          "team": {
             "code": "COD",
             "name": "Congo DR",
             "flag": "🇨🇩"
@@ -687,32 +702,17 @@
         },
         {
           "team": {
-            "code": "COL",
-            "name": "Colombia",
-            "flag": "🇨🇴"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "UZB",
             "name": "Uzbekistan",
             "flag": "🇺🇿"
           },
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 3,
+          "goalDiff": -2,
           "points": 0
         }
       ]
@@ -741,14 +741,14 @@
             "name": "Ghana",
             "flag": "🇬🇭"
           },
-          "played": 0,
-          "won": 0,
+          "played": 1,
+          "won": 1,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
+          "goalsFor": 1,
           "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalDiff": 1,
+          "points": 3
         },
         {
           "team": {
@@ -756,13 +756,13 @@
             "name": "Panama",
             "flag": "🇵🇦"
           },
-          "played": 0,
+          "played": 1,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "goalsAgainst": 1,
+          "goalDiff": -1,
           "points": 0
         },
         {
