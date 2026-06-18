@@ -76,14 +76,14 @@
             "name": "Switzerland",
             "flag": "🇨🇭"
           },
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDiff": 0,
-          "points": 1
+          "goalsFor": 5,
+          "goalsAgainst": 2,
+          "goalDiff": 3,
+          "points": 4
         },
         {
           "team": {
@@ -102,24 +102,24 @@
         },
         {
           "team": {
-            "code": "QAT",
-            "name": "Qatar",
-            "flag": "🇶🇦"
+            "code": "BIH",
+            "name": "Bosnia-Herzegovina",
+            "flag": "🇧🇦"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDiff": 0,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 5,
+          "goalDiff": -3,
           "points": 1
         },
         {
           "team": {
-            "code": "BIH",
-            "name": "Bosnia-Herzegovina",
-            "flag": "🇧🇦"
+            "code": "QAT",
+            "name": "Qatar",
+            "flag": "🇶🇦"
           },
           "played": 1,
           "won": 0,
