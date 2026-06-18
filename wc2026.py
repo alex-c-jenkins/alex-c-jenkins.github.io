@@ -4,14 +4,17 @@ import numpy as np
 from datetime import datetime
 from os import system
 
-system('cp assets/json/wc2026.json assets/json/wc2026.json.bak')
-system(
-    'claudinho --json --no-color --flavor off table > assets/json/wc2026.json')
+dir = '/Users/alex/Documents/Work/alex-c-jenkins.github.io/'
 
-with open('assets/json/wc2026.json', 'r') as f:
+system('cp ' + dir + 'assets/json/wc2026.json '
+       + dir + 'assets/json/wc2026.json.bak')
+system('/opt/homebrew/bin/claudinho --json --no-color --flavor off table > '
+       + dir + 'assets/json/wc2026.json')
+
+with open(dir + 'assets/json/wc2026.json', 'r') as f:
     data = json.load(f)['tables']
 
-with open('assets/json/wc2026.json.bak', 'r') as f:
+with open(dir + 'assets/json/wc2026.json.bak', 'r') as f:
     old_data = json.load(f)['tables']
 
 if data != old_data:
@@ -81,7 +84,7 @@ if data != old_data:
     goaldiff = goaldiff[ids]
     scores = scores[ids]
 
-    file = open('_pages/wc2026.md', 'w')
+    file = open(dir + '_pages/wc2026.md', 'w')
     file.write('---\n')
     file.write('layout: page\n')
     file.write('title: Jenkins World Cup Sweepstake 2026\n')
@@ -105,7 +108,7 @@ if data != old_data:
     file.close()
 
     system('git commit -m "Update WC2026" '
-           + 'assets/json/wc2026.json _pages/wc2026.md')
+           + dir + 'assets/json/wc2026.json ' + dir + '_pages/wc2026.md')
     system('git push')
 
-system('rm assets/json/wc2026.json.bak')
+system('rm ' + dir + 'assets/json/wc2026.json.bak')
