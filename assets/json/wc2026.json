@@ -41,14 +41,14 @@
             "name": "Czechia",
             "flag": "🇨🇿"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
           "goalDiff": -1,
-          "points": 0
+          "points": 1
         },
         {
           "team": {
@@ -56,14 +56,14 @@
             "name": "South Africa",
             "flag": "🇿🇦"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 2,
+          "goalsFor": 1,
+          "goalsAgainst": 3,
           "goalDiff": -2,
-          "points": 0
+          "points": 1
         }
       ]
     },
