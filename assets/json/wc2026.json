@@ -206,14 +206,14 @@
             "name": "United States",
             "flag": "🇺🇸"
           },
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 4,
+          "goalsFor": 6,
           "goalsAgainst": 1,
-          "goalDiff": 3,
-          "points": 3
+          "goalDiff": 5,
+          "points": 6
         },
         {
           "team": {
@@ -221,13 +221,13 @@
             "name": "Australia",
             "flag": "🇦🇺"
           },
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 2,
-          "goalsAgainst": 0,
-          "goalDiff": 2,
+          "goalsAgainst": 2,
+          "goalDiff": 0,
           "points": 3
         },
         {
