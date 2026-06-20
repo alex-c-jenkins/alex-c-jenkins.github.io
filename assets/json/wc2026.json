@@ -137,6 +137,21 @@
       "standings": [
         {
           "team": {
+            "code": "BRA",
+            "name": "Brazil",
+            "flag": "🇧🇷"
+          },
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "goalsFor": 4,
+          "goalsAgainst": 1,
+          "goalDiff": 3,
+          "points": 4
+        },
+        {
+          "team": {
             "code": "MAR",
             "name": "Morocco",
             "flag": "🇲🇦"
@@ -167,32 +182,17 @@
         },
         {
           "team": {
-            "code": "BRA",
-            "name": "Brazil",
-            "flag": "🇧🇷"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDiff": 0,
-          "points": 1
-        },
-        {
-          "team": {
             "code": "HAI",
             "name": "Haiti",
             "flag": "🇭🇹"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 0,
-          "goalsAgainst": 1,
-          "goalDiff": -1,
+          "goalsAgainst": 4,
+          "goalDiff": -4,
           "points": 0
         }
       ]
