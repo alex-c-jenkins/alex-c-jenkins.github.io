@@ -137,33 +137,33 @@
       "standings": [
         {
           "team": {
-            "code": "SCO",
-            "name": "Scotland",
-            "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
-          },
-          "played": 1,
-          "won": 1,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 0,
-          "goalDiff": 1,
-          "points": 3
-        },
-        {
-          "team": {
             "code": "MAR",
             "name": "Morocco",
             "flag": "🇲🇦"
           },
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 1,
           "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 1,
+          "goalDiff": 1,
+          "points": 4
+        },
+        {
+          "team": {
+            "code": "SCO",
+            "name": "Scotland",
+            "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+          },
+          "played": 2,
+          "won": 1,
+          "drawn": 0,
+          "lost": 1,
           "goalsFor": 1,
           "goalsAgainst": 1,
           "goalDiff": 0,
-          "points": 1
+          "points": 3
         },
         {
           "team": {
