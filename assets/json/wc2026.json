@@ -271,14 +271,14 @@
             "name": "Germany",
             "flag": "🇩🇪"
           },
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 7,
-          "goalsAgainst": 1,
-          "goalDiff": 6,
-          "points": 3
+          "goalsFor": 9,
+          "goalsAgainst": 2,
+          "goalDiff": 7,
+          "points": 6
         },
         {
           "team": {
@@ -286,13 +286,13 @@
             "name": "Ivory Coast",
             "flag": "🇨🇮"
           },
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 0,
-          "goalDiff": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDiff": 0,
           "points": 3
         },
         {
