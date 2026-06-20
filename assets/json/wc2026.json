@@ -332,17 +332,32 @@
       "standings": [
         {
           "team": {
+            "code": "NED",
+            "name": "Netherlands",
+            "flag": "🇳🇱"
+          },
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "goalsFor": 7,
+          "goalsAgainst": 3,
+          "goalDiff": 4,
+          "points": 4
+        },
+        {
+          "team": {
             "code": "SWE",
             "name": "Sweden",
             "flag": "🇸🇪"
           },
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 5,
-          "goalsAgainst": 1,
-          "goalDiff": 4,
+          "lost": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 6,
+          "goalDiff": 0,
           "points": 3
         },
         {
@@ -350,21 +365,6 @@
             "code": "JPN",
             "name": "Japan",
             "flag": "🇯🇵"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDiff": 0,
-          "points": 1
-        },
-        {
-          "team": {
-            "code": "NED",
-            "name": "Netherlands",
-            "flag": "🇳🇱"
           },
           "played": 1,
           "won": 0,
