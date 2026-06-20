@@ -232,31 +232,31 @@
         },
         {
           "team": {
-            "code": "TUR",
-            "name": "Türkiye",
-            "flag": "🇹🇷"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 2,
-          "goalDiff": -2,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "PAR",
             "name": "Paraguay",
             "flag": "🇵🇾"
           },
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 0,
           "lost": 1,
-          "goalsFor": 1,
+          "goalsFor": 2,
           "goalsAgainst": 4,
+          "goalDiff": -2,
+          "points": 3
+        },
+        {
+          "team": {
+            "code": "TUR",
+            "name": "Türkiye",
+            "flag": "🇹🇷"
+          },
+          "played": 2,
+          "won": 0,
+          "drawn": 0,
+          "lost": 2,
+          "goalsFor": 0,
+          "goalsAgainst": 3,
           "goalDiff": -3,
           "points": 0
         }
