@@ -347,6 +347,21 @@
         },
         {
           "team": {
+            "code": "JPN",
+            "name": "Japan",
+            "flag": "🇯🇵"
+          },
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 2,
+          "goalDiff": 4,
+          "points": 4
+        },
+        {
+          "team": {
             "code": "SWE",
             "name": "Sweden",
             "flag": "🇸🇪"
@@ -362,32 +377,17 @@
         },
         {
           "team": {
-            "code": "JPN",
-            "name": "Japan",
-            "flag": "🇯🇵"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDiff": 0,
-          "points": 1
-        },
-        {
-          "team": {
             "code": "TUN",
             "name": "Tunisia",
             "flag": "🇹🇳"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 1,
-          "goalsAgainst": 5,
-          "goalDiff": -4,
+          "goalsAgainst": 9,
+          "goalDiff": -8,
           "points": 0
         }
       ]
