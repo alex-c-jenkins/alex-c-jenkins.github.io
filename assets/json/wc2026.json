@@ -462,6 +462,21 @@
       "standings": [
         {
           "team": {
+            "code": "ESP",
+            "name": "Spain",
+            "flag": "🇪🇸"
+          },
+          "played": 2,
+          "won": 1,
+          "drawn": 1,
+          "lost": 0,
+          "goalsFor": 4,
+          "goalsAgainst": 0,
+          "goalDiff": 4,
+          "points": 4
+        },
+        {
+          "team": {
             "code": "URU",
             "name": "Uruguay",
             "flag": "🇺🇾"
@@ -481,28 +496,13 @@
             "name": "Saudi Arabia",
             "flag": "🇸🇦"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDiff": 0,
-          "points": 1
-        },
-        {
-          "team": {
-            "code": "ESP",
-            "name": "Spain",
-            "flag": "🇪🇸"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "goalsAgainst": 5,
+          "goalDiff": -4,
           "points": 1
         },
         {
