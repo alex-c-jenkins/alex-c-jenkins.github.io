@@ -397,6 +397,36 @@
       "standings": [
         {
           "team": {
+            "code": "IRN",
+            "name": "Iran",
+            "flag": "🇮🇷"
+          },
+          "played": 2,
+          "won": 0,
+          "drawn": 2,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDiff": 0,
+          "points": 2
+        },
+        {
+          "team": {
+            "code": "BEL",
+            "name": "Belgium",
+            "flag": "🇧🇪"
+          },
+          "played": 2,
+          "won": 0,
+          "drawn": 2,
+          "lost": 0,
+          "goalsFor": 1,
+          "goalsAgainst": 1,
+          "goalDiff": 0,
+          "points": 2
+        },
+        {
+          "team": {
             "code": "NZL",
             "name": "New Zealand",
             "flag": "🇳🇿"
@@ -407,36 +437,6 @@
           "lost": 0,
           "goalsFor": 2,
           "goalsAgainst": 2,
-          "goalDiff": 0,
-          "points": 1
-        },
-        {
-          "team": {
-            "code": "IRN",
-            "name": "Iran",
-            "flag": "🇮🇷"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDiff": 0,
-          "points": 1
-        },
-        {
-          "team": {
-            "code": "BEL",
-            "name": "Belgium",
-            "flag": "🇧🇪"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
           "goalDiff": 0,
           "points": 1
         },
