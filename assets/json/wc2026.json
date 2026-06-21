@@ -301,14 +301,14 @@
             "name": "Ecuador",
             "flag": "🇪🇨"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "goalsFor": 0,
           "goalsAgainst": 1,
           "goalDiff": -1,
-          "points": 0
+          "points": 1
         },
         {
           "team": {
@@ -316,14 +316,14 @@
             "name": "Curaçao",
             "flag": "🇨🇼"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "goalsFor": 1,
           "goalsAgainst": 7,
           "goalDiff": -6,
-          "points": 0
+          "points": 1
         }
       ]
     },
