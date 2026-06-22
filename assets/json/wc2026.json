@@ -596,14 +596,14 @@
             "name": "Argentina",
             "flag": "🇦🇷"
           },
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 3,
+          "goalsFor": 5,
           "goalsAgainst": 0,
-          "goalDiff": 3,
-          "points": 3
+          "goalDiff": 5,
+          "points": 6
         },
         {
           "team": {
@@ -611,13 +611,13 @@
             "name": "Austria",
             "flag": "🇦🇹"
           },
-          "played": 1,
+          "played": 2,
           "won": 1,
           "drawn": 0,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 3,
-          "goalsAgainst": 1,
-          "goalDiff": 2,
+          "goalsAgainst": 3,
+          "goalDiff": 0,
           "points": 3
         },
         {
