@@ -481,14 +481,29 @@
             "name": "Uruguay",
             "flag": "🇺🇾"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 3,
           "goalDiff": 0,
-          "points": 1
+          "points": 2
+        },
+        {
+          "team": {
+            "code": "CPV",
+            "name": "Cape Verde",
+            "flag": "🇨🇻"
+          },
+          "played": 2,
+          "won": 0,
+          "drawn": 2,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDiff": 0,
+          "points": 2
         },
         {
           "team": {
@@ -503,21 +518,6 @@
           "goalsFor": 1,
           "goalsAgainst": 5,
           "goalDiff": -4,
-          "points": 1
-        },
-        {
-          "team": {
-            "code": "CPV",
-            "name": "Cape Verde",
-            "flag": "🇨🇻"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
           "points": 1
         }
       ]
