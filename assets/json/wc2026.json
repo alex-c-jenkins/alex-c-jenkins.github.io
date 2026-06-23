@@ -726,14 +726,14 @@
             "name": "England",
             "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
           },
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "goalsFor": 4,
           "goalsAgainst": 2,
           "goalDiff": 2,
-          "points": 3
+          "points": 4
         },
         {
           "team": {
@@ -741,14 +741,14 @@
             "name": "Ghana",
             "flag": "🇬🇭"
           },
-          "played": 1,
+          "played": 2,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 0,
           "goalsFor": 1,
           "goalsAgainst": 0,
           "goalDiff": 1,
-          "points": 3
+          "points": 4
         },
         {
           "team": {
