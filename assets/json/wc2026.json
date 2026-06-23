@@ -527,6 +527,21 @@
       "standings": [
         {
           "team": {
+            "code": "FRA",
+            "name": "France",
+            "flag": "🇫🇷"
+          },
+          "played": 2,
+          "won": 2,
+          "drawn": 0,
+          "lost": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 1,
+          "goalDiff": 5,
+          "points": 6
+        },
+        {
+          "team": {
             "code": "NOR",
             "name": "Norway",
             "flag": "🇳🇴"
@@ -538,21 +553,6 @@
           "goalsFor": 4,
           "goalsAgainst": 1,
           "goalDiff": 3,
-          "points": 3
-        },
-        {
-          "team": {
-            "code": "FRA",
-            "name": "France",
-            "flag": "🇫🇷"
-          },
-          "played": 1,
-          "won": 1,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 3,
-          "goalsAgainst": 1,
-          "goalDiff": 2,
           "points": 3
         },
         {
@@ -576,13 +576,13 @@
             "name": "Iraq",
             "flag": "🇮🇶"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 1,
-          "goalsAgainst": 4,
-          "goalDiff": -3,
+          "goalsAgainst": 7,
+          "goalDiff": -6,
           "points": 0
         }
       ]
