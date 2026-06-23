@@ -546,14 +546,14 @@
             "name": "Norway",
             "flag": "🇳🇴"
           },
-          "played": 1,
-          "won": 1,
+          "played": 2,
+          "won": 2,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 4,
-          "goalsAgainst": 1,
-          "goalDiff": 3,
-          "points": 3
+          "goalsFor": 7,
+          "goalsAgainst": 3,
+          "goalDiff": 4,
+          "points": 6
         },
         {
           "team": {
@@ -561,13 +561,13 @@
             "name": "Senegal",
             "flag": "🇸🇳"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 0,
-          "lost": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 3,
-          "goalDiff": -2,
+          "lost": 2,
+          "goalsFor": 3,
+          "goalsAgainst": 6,
+          "goalDiff": -3,
           "points": 0
         },
         {
