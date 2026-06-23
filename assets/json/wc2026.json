@@ -622,31 +622,31 @@
         },
         {
           "team": {
-            "code": "JOR",
-            "name": "Jordan",
-            "flag": "🇯🇴"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 3,
-          "goalDiff": -2,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "ALG",
             "name": "Algeria",
             "flag": "🇩🇿"
           },
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 0,
           "lost": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 4,
+          "goalDiff": -2,
+          "points": 3
+        },
+        {
+          "team": {
+            "code": "JOR",
+            "name": "Jordan",
+            "flag": "🇯🇴"
+          },
+          "played": 2,
+          "won": 0,
+          "drawn": 0,
+          "lost": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 5,
           "goalDiff": -3,
           "points": 0
         }
