@@ -106,14 +106,14 @@
             "name": "Bosnia-Herzegovina",
             "flag": "🇧🇦"
           },
-          "played": 3,
-          "won": 1,
+          "played": 2,
+          "won": 0,
           "drawn": 1,
           "lost": 1,
-          "goalsFor": 5,
-          "goalsAgainst": 6,
-          "goalDiff": -1,
-          "points": 4
+          "goalsFor": 2,
+          "goalsAgainst": 5,
+          "goalDiff": -3,
+          "points": 1
         },
         {
           "team": {
@@ -121,13 +121,13 @@
             "name": "Qatar",
             "flag": "🇶🇦"
           },
-          "played": 3,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 2,
-          "goalsFor": 2,
-          "goalsAgainst": 10,
-          "goalDiff": -8,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 7,
+          "goalDiff": -6,
           "points": 1
         }
       ]
