@@ -752,31 +752,31 @@
         },
         {
           "team": {
-            "code": "PAN",
-            "name": "Panama",
-            "flag": "🇵🇦"
-          },
-          "played": 1,
-          "won": 0,
-          "drawn": 0,
-          "lost": 1,
-          "goalsFor": 0,
-          "goalsAgainst": 1,
-          "goalDiff": -1,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "CRO",
             "name": "Croatia",
             "flag": "🇭🇷"
           },
-          "played": 1,
-          "won": 0,
+          "played": 2,
+          "won": 1,
           "drawn": 0,
           "lost": 1,
-          "goalsFor": 2,
+          "goalsFor": 3,
           "goalsAgainst": 4,
+          "goalDiff": -1,
+          "points": 3
+        },
+        {
+          "team": {
+            "code": "PAN",
+            "name": "Panama",
+            "flag": "🇵🇦"
+          },
+          "played": 2,
+          "won": 0,
+          "drawn": 0,
+          "lost": 2,
+          "goalsFor": 0,
+          "goalsAgainst": 2,
           "goalDiff": -2,
           "points": 0
         }
