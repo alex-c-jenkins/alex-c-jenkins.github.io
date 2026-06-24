@@ -657,6 +657,21 @@
       "standings": [
         {
           "team": {
+            "code": "COL",
+            "name": "Colombia",
+            "flag": "🇨🇴"
+          },
+          "played": 2,
+          "won": 2,
+          "drawn": 0,
+          "lost": 0,
+          "goalsFor": 4,
+          "goalsAgainst": 1,
+          "goalDiff": 3,
+          "points": 6
+        },
+        {
+          "team": {
             "code": "POR",
             "name": "Portugal",
             "flag": "🇵🇹"
@@ -672,32 +687,17 @@
         },
         {
           "team": {
-            "code": "COL",
-            "name": "Colombia",
-            "flag": "🇨🇴"
-          },
-          "played": 1,
-          "won": 1,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 3,
-          "goalsAgainst": 1,
-          "goalDiff": 2,
-          "points": 3
-        },
-        {
-          "team": {
             "code": "COD",
             "name": "Congo DR",
             "flag": "🇨🇩"
           },
-          "played": 1,
+          "played": 2,
           "won": 0,
           "drawn": 1,
-          "lost": 0,
+          "lost": 1,
           "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDiff": 0,
+          "goalsAgainst": 2,
+          "goalDiff": -1,
           "points": 1
         },
         {
