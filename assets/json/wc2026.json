@@ -141,14 +141,14 @@
             "name": "Brazil",
             "flag": "🇧🇷"
           },
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "goalsFor": 4,
+          "goalsFor": 7,
           "goalsAgainst": 1,
-          "goalDiff": 3,
-          "points": 4
+          "goalDiff": 6,
+          "points": 7
         },
         {
           "team": {
@@ -156,14 +156,14 @@
             "name": "Morocco",
             "flag": "🇲🇦"
           },
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 1,
-          "goalDiff": 1,
-          "points": 4
+          "goalsFor": 6,
+          "goalsAgainst": 3,
+          "goalDiff": 3,
+          "points": 7
         },
         {
           "team": {
@@ -171,13 +171,13 @@
             "name": "Scotland",
             "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
           },
-          "played": 2,
+          "played": 3,
           "won": 1,
           "drawn": 0,
-          "lost": 1,
+          "lost": 2,
           "goalsFor": 1,
-          "goalsAgainst": 1,
-          "goalDiff": 0,
+          "goalsAgainst": 4,
+          "goalDiff": -3,
           "points": 3
         },
         {
@@ -186,13 +186,13 @@
             "name": "Haiti",
             "flag": "🇭🇹"
           },
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "goalsFor": 0,
-          "goalsAgainst": 4,
-          "goalDiff": -4,
+          "lost": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 8,
+          "goalDiff": -6,
           "points": 0
         }
       ]
