@@ -206,13 +206,13 @@
             "name": "United States",
             "flag": "🇺🇸"
           },
-          "played": 2,
+          "played": 3,
           "won": 2,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 6,
-          "goalsAgainst": 1,
-          "goalDiff": 5,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 4,
+          "goalDiff": 4,
           "points": 6
         },
         {
@@ -221,14 +221,14 @@
             "name": "Australia",
             "flag": "🇦🇺"
           },
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "goalsFor": 2,
           "goalsAgainst": 2,
           "goalDiff": 0,
-          "points": 3
+          "points": 4
         },
         {
           "team": {
@@ -236,14 +236,14 @@
             "name": "Paraguay",
             "flag": "🇵🇾"
           },
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
           "goalsFor": 2,
           "goalsAgainst": 4,
           "goalDiff": -2,
-          "points": 3
+          "points": 4
         },
         {
           "team": {
@@ -251,14 +251,14 @@
             "name": "Türkiye",
             "flag": "🇹🇷"
           },
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "goalsFor": 0,
-          "goalsAgainst": 3,
-          "goalDiff": -3,
-          "points": 0
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "goalDiff": -2,
+          "points": 3
         }
       ]
     },
