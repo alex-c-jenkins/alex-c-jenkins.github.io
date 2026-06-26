@@ -336,14 +336,14 @@
             "name": "Netherlands",
             "flag": "🇳🇱"
           },
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "goalsFor": 7,
-          "goalsAgainst": 3,
-          "goalDiff": 4,
-          "points": 4
+          "goalsFor": 10,
+          "goalsAgainst": 4,
+          "goalDiff": 6,
+          "points": 7
         },
         {
           "team": {
@@ -351,14 +351,14 @@
             "name": "Japan",
             "flag": "🇯🇵"
           },
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 0,
-          "goalsFor": 6,
-          "goalsAgainst": 2,
+          "goalsFor": 7,
+          "goalsAgainst": 3,
           "goalDiff": 4,
-          "points": 4
+          "points": 5
         },
         {
           "team": {
@@ -366,14 +366,14 @@
             "name": "Sweden",
             "flag": "🇸🇪"
           },
-          "played": 2,
+          "played": 3,
           "won": 1,
-          "drawn": 0,
+          "drawn": 1,
           "lost": 1,
-          "goalsFor": 6,
-          "goalsAgainst": 6,
+          "goalsFor": 7,
+          "goalsAgainst": 7,
           "goalDiff": 0,
-          "points": 3
+          "points": 4
         },
         {
           "team": {
@@ -381,13 +381,13 @@
             "name": "Tunisia",
             "flag": "🇹🇳"
           },
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "goalsFor": 1,
-          "goalsAgainst": 9,
-          "goalDiff": -8,
+          "lost": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 12,
+          "goalDiff": -10,
           "points": 0
         }
       ]
