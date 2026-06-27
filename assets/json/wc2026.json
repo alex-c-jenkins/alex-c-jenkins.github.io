@@ -726,14 +726,14 @@
             "name": "England",
             "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
           },
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 1,
           "lost": 0,
-          "goalsFor": 4,
+          "goalsFor": 6,
           "goalsAgainst": 2,
-          "goalDiff": 2,
-          "points": 4
+          "goalDiff": 4,
+          "points": 7
         },
         {
           "team": {
@@ -771,13 +771,13 @@
             "name": "Panama",
             "flag": "🇵🇦"
           },
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
+          "lost": 3,
           "goalsFor": 0,
-          "goalsAgainst": 2,
-          "goalDiff": -2,
+          "goalsAgainst": 4,
+          "goalDiff": -4,
           "points": 0
         }
       ]
