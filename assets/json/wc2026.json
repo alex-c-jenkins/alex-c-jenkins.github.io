@@ -477,6 +477,21 @@
         },
         {
           "team": {
+            "code": "CPV",
+            "name": "Cape Verde",
+            "flag": "🇨🇻"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 3,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDiff": 0,
+          "points": 3
+        },
+        {
+          "team": {
             "code": "URU",
             "name": "Uruguay",
             "flag": "🇺🇾"
@@ -492,33 +507,18 @@
         },
         {
           "team": {
-            "code": "CPV",
-            "name": "Cape Verde",
-            "flag": "🇨🇻"
-          },
-          "played": 2,
-          "won": 0,
-          "drawn": 2,
-          "lost": 0,
-          "goalsFor": 2,
-          "goalsAgainst": 2,
-          "goalDiff": 0,
-          "points": 2
-        },
-        {
-          "team": {
             "code": "KSA",
             "name": "Saudi Arabia",
             "flag": "🇸🇦"
           },
-          "played": 2,
+          "played": 3,
           "won": 0,
-          "drawn": 1,
+          "drawn": 2,
           "lost": 1,
           "goalsFor": 1,
           "goalsAgainst": 5,
           "goalDiff": -4,
-          "points": 1
+          "points": 2
         }
       ]
     },
