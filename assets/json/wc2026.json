@@ -737,33 +737,33 @@
         },
         {
           "team": {
-            "code": "GHA",
-            "name": "Ghana",
-            "flag": "🇬🇭"
-          },
-          "played": 2,
-          "won": 1,
-          "drawn": 1,
-          "lost": 0,
-          "goalsFor": 1,
-          "goalsAgainst": 0,
-          "goalDiff": 1,
-          "points": 4
-        },
-        {
-          "team": {
             "code": "CRO",
             "name": "Croatia",
             "flag": "🇭🇷"
           },
-          "played": 2,
-          "won": 1,
+          "played": 3,
+          "won": 2,
           "drawn": 0,
           "lost": 1,
-          "goalsFor": 3,
-          "goalsAgainst": 4,
-          "goalDiff": -1,
-          "points": 3
+          "goalsFor": 5,
+          "goalsAgainst": 5,
+          "goalDiff": 0,
+          "points": 6
+        },
+        {
+          "team": {
+            "code": "GHA",
+            "name": "Ghana",
+            "flag": "🇬🇭"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
+          "goalDiff": 0,
+          "points": 4
         },
         {
           "team": {
