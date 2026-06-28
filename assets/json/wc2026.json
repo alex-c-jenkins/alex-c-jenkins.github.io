@@ -596,14 +596,14 @@
             "name": "Argentina",
             "flag": "🇦🇷"
           },
-          "played": 2,
-          "won": 2,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 5,
-          "goalsAgainst": 0,
-          "goalDiff": 5,
-          "points": 6
+          "goalsFor": 8,
+          "goalsAgainst": 1,
+          "goalDiff": 7,
+          "points": 9
         },
         {
           "team": {
@@ -641,13 +641,13 @@
             "name": "Jordan",
             "flag": "🇯🇴"
           },
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "goalsFor": 2,
-          "goalsAgainst": 5,
-          "goalDiff": -3,
+          "lost": 3,
+          "goalsFor": 3,
+          "goalsAgainst": 8,
+          "goalDiff": -5,
           "points": 0
         }
       ]
