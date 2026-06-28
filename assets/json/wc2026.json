@@ -691,14 +691,14 @@
             "name": "Congo DR",
             "flag": "🇨🇩"
           },
-          "played": 2,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 1,
           "lost": 1,
-          "goalsFor": 1,
-          "goalsAgainst": 2,
-          "goalDiff": -1,
-          "points": 1
+          "goalsFor": 4,
+          "goalsAgainst": 3,
+          "goalDiff": 1,
+          "points": 4
         },
         {
           "team": {
@@ -706,13 +706,13 @@
             "name": "Uzbekistan",
             "flag": "🇺🇿"
           },
-          "played": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "goalsFor": 1,
-          "goalsAgainst": 8,
-          "goalDiff": -7,
+          "lost": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 11,
+          "goalDiff": -9,
           "points": 0
         }
       ]
