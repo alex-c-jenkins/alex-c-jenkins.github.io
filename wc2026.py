@@ -20,10 +20,23 @@ teams = np.array([
     ['ENG', 'NOR', 'COL', 'PAR', 'ALG', 'CUW'],
     ['ARG', 'MAR', 'TUR', 'CZE', 'COD', 'HAI']])
 flags = np.array([
-    '🇵🇹🇺🇸🇦🇹🇧🇦🇪🇨🇮🇶', '🇫🇷🇺🇾🇵🇦🇸🇳🇪🇬🇯🇴',
-    '🇩🇪🇧🇪🇰🇷🇸🇪🇮🇷🇸🇦', '🇧🇷🇭🇷🇨🇮🇹🇳🇬🇭🇨🇻',
-    '🇪🇸🇯🇵🇨🇭🇦🇺🇿🇦🇶🇦', '🇳🇱🇨🇦🏴󠁧󠁢󠁳󠁣󠁴󠁿🇲🇽🇺🇿🇳🇿',
-    '🏴󠁧󠁢󠁥󠁮󠁧󠁿🇳🇴🇨🇴🇵🇾🇩🇿🇨🇼', '🇦🇷🇲🇦🇹🇷🇨🇿🇨🇩🇭🇹'])
+    ['🇵🇹', '🇺🇸', '🇦🇹', '🇧🇦', '🇪🇨', '🇮🇶'],
+    ['🇫🇷', '🇺🇾', '🇵🇦', '🇸🇳', '🇪🇬', '🇯🇴'],
+    ['🇩🇪', '🇧🇪', '🇰🇷', '🇸🇪', '🇮🇷', '🇸🇦'],
+    ['🇧🇷', '🇭🇷', '🇨🇮', '🇹🇳', '🇬🇭', '🇨🇻'],
+    ['🇪🇸', '🇯🇵', '🇨🇭', '🇦🇺', '🇿🇦', '🇶🇦'],
+    ['🇳🇱', '🇨🇦', '🏴󠁧󠁢󠁳󠁣󠁴󠁿', '🇲🇽', '🇺🇿', '🇳🇿'],
+    ['🏴󠁧󠁢󠁥󠁮󠁧󠁿', '🇳🇴', '🇨🇴', '🇵🇾', '🇩🇿', '🇨🇼'],
+    ['🇦🇷', '🇲🇦', '🇹🇷', '🇨🇿', '🇨🇩', '🇭🇹']])
+eliminated = np.array([
+    [False, False, False, True, True, True],
+    [False, True, True, True, False, True],
+    [True, False, True, True, True, True],
+    [False, False, True, True, False, False],
+    [False, True, False, False, True, True],
+    [True, False, True, False, True, True],
+    [False, False, False, False, False, True],
+    [False, False, True, True, True, True]])
 played = np.zeros(len(names))
 won = np.zeros(len(names))
 drawn = np.zeros(len(names))
@@ -60,30 +73,39 @@ for matchid in range(760486, 760518):
         + '--json --no-color --flavor off match ' + str(matchid), shell=True)
     matchdata = loads(matchdata)['match']
     if matchdata['status'] == 'FT':
-        team1 = np.where(teams == matchdata['home']['code'])[0][0]
-        team2 = np.where(teams == matchdata['away']['code'])[0][0]
-        played[team1] += 1
-        played[team2] += 1
+        player1 = np.where(teams == matchdata['home']['code'])[0][0]
+        team1 = np.where(teams == matchdata['home']['code'])[1][0]
+        player2 = np.where(teams == matchdata['away']['code'])[0][0]
+        team2 = np.where(teams == matchdata['away']['code'])[1][0]
+        played[player1] += 1
+        played[player2] += 1
         home = matchdata['score']['home']
         away = matchdata['score']['away']
+        #print(matchdata['home']['code'], home, away, matchdata['away']['code'])
         if home > away:
-            won[team1] += 1
-            lost[team2] += 1
-            scores[team1] += 1
+            won[player1] += 1
+            lost[player2] += 1
+            scores[player1] += 1
+            eliminated[player2][team2] = True
         elif home < away:
-            lost[team1] += 1
-            won[team2] += 1
-            scores[team2] += 1
-        goaldiff[team1] += home - away
-        goaldiff[team2] += away - home
-    else:
-        break
+            lost[player1] += 1
+            won[player2] += 1
+            scores[player2] += 1
+            eliminated[player1][team1] = True
+        elif matchid in [760488, 760489]:
+            lost[player1] += 1
+            won[player2] += 1
+            scores[player2] += 1
+            eliminated[player1][team1] = True
+        goaldiff[player1] += home - away
+        goaldiff[player2] += away - home
 
 # update standings (sort by goal difference, then wins, then scores)
 ids = np.argsort(-goaldiff)
 names = names[ids]
 teams = teams[ids]
 flags = flags[ids]
+eliminated = eliminated[ids]
 played = played[ids]
 won = won[ids]
 drawn = drawn[ids]
@@ -95,6 +117,7 @@ ids = np.argsort(-won)
 names = names[ids]
 teams = teams[ids]
 flags = flags[ids]
+eliminated = eliminated[ids]
 played = played[ids]
 won = won[ids]
 drawn = drawn[ids]
@@ -106,6 +129,7 @@ ids = np.argsort(-scores)
 names = names[ids]
 teams = teams[ids]
 flags = flags[ids]
+eliminated = eliminated[ids]
 played = played[ids]
 won = won[ids]
 drawn = drawn[ids]
@@ -130,12 +154,12 @@ file.write('Table last updated at '
             + ' on ' + datetime.now().strftime("%d %B %Y") + '\n')
 file.write('\n')
 file.write(
-    '| Name | Teams | Score | Played | Won | Drawn | Lost | Goal Diff |\n')
+    '| Name | Teams | Remaining | Score | Played | Won | Drawn | Lost | Goal Diff |\n')
 file.write(
-    '|------|-------|-------|--------|-----|-------|------|-----------|\n')
+    '|------|-------|-----------|-------|--------|-----|-------|------|-----------|\n')
 for i in range(len(names)):
     file.write(
-        f'| {names[i]} | {flags[i]} | **{scores[i]:.1f}** '
+        f'| {names[i]} | {''.join(flags[i])} | {''.join(flags[i][~eliminated[i]])} | **{scores[i]:.1f}** '
         + f'| {int(played[i])} | {int(won[i])} | {int(drawn[i])} '
         + f'| {int(lost[i])} | {int(goaldiff[i])} |\n')
 file.close()
