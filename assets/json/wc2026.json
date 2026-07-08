@@ -1,39 +1,24 @@
 {
-  "degraded": true,
-  "source": null,
+  "degraded": false,
+  "source": "espn",
   "tables": [
     {
       "group": "A",
       "standings": [
         {
           "team": {
-            "code": "CZE",
-            "name": "Czechia",
-            "flag": "🇨🇿"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "MEX",
             "name": "Mexico",
             "flag": "🇲🇽"
           },
-          "played": 0,
-          "won": 0,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
+          "goalsFor": 6,
           "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalDiff": 6,
+          "points": 9
         },
         {
           "team": {
@@ -41,14 +26,14 @@
             "name": "South Africa",
             "flag": "🇿🇦"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDiff": -1,
+          "points": 4
         },
         {
           "team": {
@@ -56,14 +41,29 @@
             "name": "South Korea",
             "flag": "🇰🇷"
           },
-          "played": 0,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "lost": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 3,
+          "goalDiff": -1,
+          "points": 3
+        },
+        {
+          "team": {
+            "code": "CZE",
+            "name": "Czechia",
+            "flag": "🇨🇿"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 6,
+          "goalDiff": -4,
+          "points": 1
         }
       ]
     },
@@ -72,18 +72,18 @@
       "standings": [
         {
           "team": {
-            "code": "BIH",
-            "name": "Bosnia-Herzegovina",
-            "flag": "🇧🇦"
+            "code": "SUI",
+            "name": "Switzerland",
+            "flag": "🇨🇭"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 7,
+          "goalsAgainst": 3,
+          "goalDiff": 4,
+          "points": 7
         },
         {
           "team": {
@@ -91,14 +91,29 @@
             "name": "Canada",
             "flag": "🇨🇦"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 3,
+          "goalDiff": 5,
+          "points": 4
+        },
+        {
+          "team": {
+            "code": "BIH",
+            "name": "Bosnia-Herzegovina",
+            "flag": "🇧🇦"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 6,
+          "goalDiff": -1,
+          "points": 4
         },
         {
           "team": {
@@ -106,29 +121,14 @@
             "name": "Qatar",
             "flag": "🇶🇦"
           },
-          "played": 0,
+          "played": 3,
           "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
-            "code": "SUI",
-            "name": "Switzerland",
-            "flag": "🇨🇭"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "drawn": 1,
+          "lost": 2,
+          "goalsFor": 2,
+          "goalsAgainst": 10,
+          "goalDiff": -8,
+          "points": 1
         }
       ]
     },
@@ -141,29 +141,14 @@
             "name": "Brazil",
             "flag": "🇧🇷"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
-            "code": "HAI",
-            "name": "Haiti",
-            "flag": "🇭🇹"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 7,
+          "goalsAgainst": 1,
+          "goalDiff": 6,
+          "points": 7
         },
         {
           "team": {
@@ -171,14 +156,14 @@
             "name": "Morocco",
             "flag": "🇲🇦"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 6,
+          "goalsAgainst": 3,
+          "goalDiff": 3,
+          "points": 7
         },
         {
           "team": {
@@ -186,13 +171,28 @@
             "name": "Scotland",
             "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿"
           },
-          "played": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goalsFor": 1,
+          "goalsAgainst": 4,
+          "goalDiff": -3,
+          "points": 3
+        },
+        {
+          "team": {
+            "code": "HAI",
+            "name": "Haiti",
+            "flag": "🇭🇹"
+          },
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "lost": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 8,
+          "goalDiff": -6,
           "points": 0
         }
       ]
@@ -202,18 +202,33 @@
       "standings": [
         {
           "team": {
+            "code": "USA",
+            "name": "United States",
+            "flag": "🇺🇸"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 4,
+          "goalDiff": 4,
+          "points": 6
+        },
+        {
+          "team": {
             "code": "AUS",
             "name": "Australia",
             "flag": "🇦🇺"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
           "goalDiff": 0,
-          "points": 0
+          "points": 4
         },
         {
           "team": {
@@ -221,14 +236,14 @@
             "name": "Paraguay",
             "flag": "🇵🇾"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 4,
+          "goalDiff": -2,
+          "points": 4
         },
         {
           "team": {
@@ -236,29 +251,14 @@
             "name": "Türkiye",
             "flag": "🇹🇷"
           },
-          "played": 0,
-          "won": 0,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
-            "code": "USA",
-            "name": "United States",
-            "flag": "🇺🇸"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "lost": 2,
+          "goalsFor": 3,
+          "goalsAgainst": 5,
+          "goalDiff": -2,
+          "points": 3
         }
       ]
     },
@@ -267,48 +267,18 @@
       "standings": [
         {
           "team": {
-            "code": "CUW",
-            "name": "Curaçao",
-            "flag": "🇨🇼"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
-            "code": "ECU",
-            "name": "Ecuador",
-            "flag": "🇪🇨"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "GER",
             "name": "Germany",
             "flag": "🇩🇪"
           },
-          "played": 0,
-          "won": 0,
+          "played": 3,
+          "won": 2,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "lost": 1,
+          "goalsFor": 10,
+          "goalsAgainst": 4,
+          "goalDiff": 6,
+          "points": 6
         },
         {
           "team": {
@@ -316,14 +286,44 @@
             "name": "Ivory Coast",
             "flag": "🇨🇮"
           },
-          "played": 0,
-          "won": 0,
+          "played": 3,
+          "won": 2,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "lost": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 2,
+          "goalDiff": 2,
+          "points": 6
+        },
+        {
+          "team": {
+            "code": "ECU",
+            "name": "Ecuador",
+            "flag": "🇪🇨"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
           "goalDiff": 0,
-          "points": 0
+          "points": 4
+        },
+        {
+          "team": {
+            "code": "CUW",
+            "name": "Curaçao",
+            "flag": "🇨🇼"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 1,
+          "lost": 2,
+          "goalsFor": 1,
+          "goalsAgainst": 9,
+          "goalDiff": -8,
+          "points": 1
         }
       ]
     },
@@ -332,33 +332,33 @@
       "standings": [
         {
           "team": {
-            "code": "JPN",
-            "name": "Japan",
-            "flag": "🇯🇵"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "NED",
             "name": "Netherlands",
             "flag": "🇳🇱"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 10,
+          "goalsAgainst": 4,
+          "goalDiff": 6,
+          "points": 7
+        },
+        {
+          "team": {
+            "code": "JPN",
+            "name": "Japan",
+            "flag": "🇯🇵"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
+          "lost": 0,
+          "goalsFor": 7,
+          "goalsAgainst": 3,
+          "goalDiff": 4,
+          "points": 5
         },
         {
           "team": {
@@ -366,14 +366,14 @@
             "name": "Sweden",
             "flag": "🇸🇪"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 7,
+          "goalsAgainst": 7,
           "goalDiff": 0,
-          "points": 0
+          "points": 4
         },
         {
           "team": {
@@ -381,13 +381,13 @@
             "name": "Tunisia",
             "flag": "🇹🇳"
           },
-          "played": 0,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "lost": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 12,
+          "goalDiff": -10,
           "points": 0
         }
       ]
@@ -401,14 +401,14 @@
             "name": "Belgium",
             "flag": "🇧🇪"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 6,
+          "goalsAgainst": 2,
+          "goalDiff": 4,
+          "points": 5
         },
         {
           "team": {
@@ -416,14 +416,14 @@
             "name": "Egypt",
             "flag": "🇪🇬"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 5,
+          "goalsAgainst": 3,
+          "goalDiff": 2,
+          "points": 5
         },
         {
           "team": {
@@ -431,14 +431,14 @@
             "name": "Iran",
             "flag": "🇮🇷"
           },
-          "played": 0,
+          "played": 3,
           "won": 0,
-          "drawn": 0,
+          "drawn": 3,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "goalsFor": 3,
+          "goalsAgainst": 3,
           "goalDiff": 0,
-          "points": 0
+          "points": 3
         },
         {
           "team": {
@@ -446,14 +446,14 @@
             "name": "New Zealand",
             "flag": "🇳🇿"
           },
-          "played": 0,
+          "played": 3,
           "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "drawn": 1,
+          "lost": 2,
+          "goalsFor": 4,
+          "goalsAgainst": 10,
+          "goalDiff": -6,
+          "points": 1
         }
       ]
     },
@@ -462,48 +462,33 @@
       "standings": [
         {
           "team": {
-            "code": "CPV",
-            "name": "Cape Verde",
-            "flag": "🇨🇻"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
-            "code": "KSA",
-            "name": "Saudi Arabia",
-            "flag": "🇸🇦"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "ESP",
             "name": "Spain",
             "flag": "🇪🇸"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
+          "goalsFor": 5,
           "goalsAgainst": 0,
+          "goalDiff": 5,
+          "points": 7
+        },
+        {
+          "team": {
+            "code": "CPV",
+            "name": "Cape Verde",
+            "flag": "🇨🇻"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 3,
+          "lost": 0,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
           "goalDiff": 0,
-          "points": 0
+          "points": 3
         },
         {
           "team": {
@@ -511,14 +496,29 @@
             "name": "Uruguay",
             "flag": "🇺🇾"
           },
-          "played": 0,
+          "played": 3,
           "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "drawn": 2,
+          "lost": 1,
+          "goalsFor": 3,
+          "goalsAgainst": 4,
+          "goalDiff": -1,
+          "points": 2
+        },
+        {
+          "team": {
+            "code": "KSA",
+            "name": "Saudi Arabia",
+            "flag": "🇸🇦"
+          },
+          "played": 3,
+          "won": 0,
+          "drawn": 2,
+          "lost": 1,
+          "goalsFor": 1,
+          "goalsAgainst": 5,
+          "goalDiff": -4,
+          "points": 2
         }
       ]
     },
@@ -531,29 +531,14 @@
             "name": "France",
             "flag": "🇫🇷"
           },
-          "played": 0,
-          "won": 0,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
-            "code": "IRQ",
-            "name": "Iraq",
-            "flag": "🇮🇶"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 10,
+          "goalsAgainst": 2,
+          "goalDiff": 8,
+          "points": 9
         },
         {
           "team": {
@@ -561,14 +546,14 @@
             "name": "Norway",
             "flag": "🇳🇴"
           },
-          "played": 0,
-          "won": 0,
+          "played": 3,
+          "won": 2,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "lost": 1,
+          "goalsFor": 8,
+          "goalsAgainst": 7,
+          "goalDiff": 1,
+          "points": 6
         },
         {
           "team": {
@@ -576,13 +561,28 @@
             "name": "Senegal",
             "flag": "🇸🇳"
           },
-          "played": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 0,
+          "lost": 2,
+          "goalsFor": 8,
+          "goalsAgainst": 6,
+          "goalDiff": 2,
+          "points": 3
+        },
+        {
+          "team": {
+            "code": "IRQ",
+            "name": "Iraq",
+            "flag": "🇮🇶"
+          },
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "lost": 3,
+          "goalsFor": 1,
+          "goalsAgainst": 12,
+          "goalDiff": -11,
           "points": 0
         }
       ]
@@ -592,33 +592,18 @@
       "standings": [
         {
           "team": {
-            "code": "ALG",
-            "name": "Algeria",
-            "flag": "🇩🇿"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "ARG",
             "name": "Argentina",
             "flag": "🇦🇷"
           },
-          "played": 0,
-          "won": 0,
+          "played": 3,
+          "won": 3,
           "drawn": 0,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 8,
+          "goalsAgainst": 1,
+          "goalDiff": 7,
+          "points": 9
         },
         {
           "team": {
@@ -626,14 +611,29 @@
             "name": "Austria",
             "flag": "🇦🇹"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 6,
+          "goalsAgainst": 6,
           "goalDiff": 0,
-          "points": 0
+          "points": 4
+        },
+        {
+          "team": {
+            "code": "ALG",
+            "name": "Algeria",
+            "flag": "🇩🇿"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 7,
+          "goalDiff": -2,
+          "points": 4
         },
         {
           "team": {
@@ -641,13 +641,13 @@
             "name": "Jordan",
             "flag": "🇯🇴"
           },
-          "played": 0,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "lost": 3,
+          "goalsFor": 3,
+          "goalsAgainst": 8,
+          "goalDiff": -5,
           "points": 0
         }
       ]
@@ -661,29 +661,14 @@
             "name": "Colombia",
             "flag": "🇨🇴"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
-            "code": "COD",
-            "name": "Congo DR",
-            "flag": "🇨🇩"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 4,
+          "goalsAgainst": 1,
+          "goalDiff": 3,
+          "points": 7
         },
         {
           "team": {
@@ -691,14 +676,29 @@
             "name": "Portugal",
             "flag": "🇵🇹"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 2,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
+          "goalsFor": 6,
+          "goalsAgainst": 1,
+          "goalDiff": 5,
+          "points": 5
+        },
+        {
+          "team": {
+            "code": "COD",
+            "name": "Congo DR",
+            "flag": "🇨🇩"
+          },
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 4,
+          "goalsAgainst": 3,
+          "goalDiff": 1,
+          "points": 4
         },
         {
           "team": {
@@ -706,13 +706,13 @@
             "name": "Uzbekistan",
             "flag": "🇺🇿"
           },
-          "played": 0,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "lost": 3,
+          "goalsFor": 2,
+          "goalsAgainst": 11,
+          "goalDiff": -9,
           "points": 0
         }
       ]
@@ -722,33 +722,33 @@
       "standings": [
         {
           "team": {
-            "code": "CRO",
-            "name": "Croatia",
-            "flag": "🇭🇷"
-          },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
-          "points": 0
-        },
-        {
-          "team": {
             "code": "ENG",
             "name": "England",
             "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
+          "played": 3,
+          "won": 2,
+          "drawn": 1,
           "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "goalsFor": 6,
+          "goalsAgainst": 2,
+          "goalDiff": 4,
+          "points": 7
+        },
+        {
+          "team": {
+            "code": "CRO",
+            "name": "Croatia",
+            "flag": "🇭🇷"
+          },
+          "played": 3,
+          "won": 2,
+          "drawn": 0,
+          "lost": 1,
+          "goalsFor": 5,
+          "goalsAgainst": 5,
           "goalDiff": 0,
-          "points": 0
+          "points": 6
         },
         {
           "team": {
@@ -756,14 +756,14 @@
             "name": "Ghana",
             "flag": "🇬🇭"
           },
-          "played": 0,
-          "won": 0,
-          "drawn": 0,
-          "lost": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
+          "played": 3,
+          "won": 1,
+          "drawn": 1,
+          "lost": 1,
+          "goalsFor": 2,
+          "goalsAgainst": 2,
           "goalDiff": 0,
-          "points": 0
+          "points": 4
         },
         {
           "team": {
@@ -771,13 +771,13 @@
             "name": "Panama",
             "flag": "🇵🇦"
           },
-          "played": 0,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 0,
+          "lost": 3,
           "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDiff": 0,
+          "goalsAgainst": 4,
+          "goalDiff": -4,
           "points": 0
         }
       ]
