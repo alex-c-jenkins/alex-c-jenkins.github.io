@@ -7,6 +7,16 @@ nav: true
 nav_order: 4
 ---
 
+My research and simulations featured on the BBC TV programme 'The Sky at Night'.
+
+<figure>
+  <a href="https://www.bbc.co.uk/iplayer/episode/m0031n3k/the-sky-at-night-engineering-the-universe">
+  <img src="https://alex-c-jenkins.github.io/assets/img/bbc-sky-at-night.png" width="100%">
+  </a>
+</figure>
+
+<br>
+
 Unpacking the science behind Conrad Shawcross' artwork "The Blind Proliferation", as part of the [Cosmic Titans exhibition](https://www.lakesidearts.org.uk/exhibition/cosmictitans/) at Lakeside Arts, Nottingham.
 
 <figure>
