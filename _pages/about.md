@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -27,18 +27,18 @@ I'm currently based at the University of Cambridge, where I hold the Gavin Boyle
 </p>
 
 <p>
-Much of my current work focuses on <em>vacuum decay</em>, a fascinating quantum-mechanical phenomenon that is a ubiquitous feature of early-Universe cosmology. As a member of the <a href="https://qsimfp.org/">Quantum Simulators for Fundamental Physics (QSimFP) Consortium</a>, I am helping to develop laboratory experiments that will <a href="https://doi.org/10.1103/PhysRevD.109.023506">empirically test our understanding of vacuum decay</a> for the first time. These experiments could have important and far-reaching implications for areas ranging from inflation and the multiverse to the stability of the Higgs field.
+Much of my current work focuses on <em>vacuum decay</em>, a fascinating quantum-mechanical phenomenon that is a ubiquitous feature of early-Universe cosmology. I am developing new approaches to model the real-time dynamics of vacuum decay, using <a href="https://inspirehep.net/literature/3178438">semiclassical numerical simulations on the lattice</a> as well as <a href="https://doi.org/10.1038/s41586-026-11268-y">quantum analogue simulations in the laboratory</a> to empirically test our understanding of vacuum decay for the first time. This work could have far-reaching implications for areas ranging from inflation and the multiverse to the stability of the Higgs field.
 </p>
 
 <p>
-Another key focus of my research is <em>gravitational-wave astronomy</em>. I am particularly interested in using gravitational-wave observations to probe cosmology and fundamental physics, for example by searching for signals generated in the very early Universe, or by using gravitational-wave sources as <a href="https://inspirehep.net/literature/2127416">tracers of cosmic structure formation</a>. In 2023 I was awarded a <a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize</a> (2nd prize) for my work on detecting gravitational waves via <a href="https://doi.org/10.1103/PhysRevLett.128.101103">their effect on binary systems</a>. I am now part of an international team of 40+ scientists developing the <a href="https://www.kicc.cam.ac.uk/news/kicc-success-esas-2025-call-missions">GUEST mission concept</a> (Gravitational Universe Exploration with Satellite Tracking), which will use these ideas to search for microhertz gravitational waves, ultralight dark matter, and deviations from general relativity.
+Another key focus of my research is <em>gravitational-wave astronomy</em>. I am particularly interested in using gravitational-wave observations to probe cosmology and fundamental physics, for example by searching for signals generated in the very early Universe, or by using gravitational-wave sources as <a href="https://doi.org/10.1103/PhysRevD.108.043512">tracers of cosmic structure formation</a>. In 2023 I was awarded a <a href="http://www.buchaltercosmologyprize.org/">Buchalter Cosmology Prize</a> (2nd prize) for my work on detecting gravitational waves via <a href="https://doi.org/10.1103/PhysRevLett.128.101103">their effect on binary systems</a>. I am now part of an international team of 40+ scientists developing the <a href="https://inspirehep.net/literature/3182212">GUEST mission concept</a> (Gravitational Universe Exploration with Satellite Tracking), which will use these ideas to search for microhertz gravitational waves, ultralight dark matter, and deviations from general relativity.
 </p>
 
 <p>
-I'm a core organiser of <a href="https://camgw.github.io/camgw-web/">CamGW</a>, an interdepartmental network for gravitational-wave researchers in Cambridge. I'm also a co-organiser of <a href="https://www.gwuk.org/">GW:UK</a>, which plays a similar role on a national scale, connecting gravitational-wave researchers across the UK.
+I'm a core organiser of <a href="https://camgw.github.io/camgw-web/">CamGW</a>, an interdepartmental network for gravitational-wave researchers in Cambridge. I'm also a committee member of <a href="https://www.gwuk.org/">GW:UK</a>, which plays a similar role on a national scale, connecting gravitational-wave researchers across the UK.
 </p>
 
 <p>
-I was previously a Postdoctoral Research Fellow in the <a href="https://www.ucl.ac.uk/cosmoparticle">Cosmoparticle Initiative</a> at University College London (2021-2024). I did my PhD in Theoretical Physics at King's College London (2017-2021), and my MA and MSci in Astrophysics at the University of Cambridge (2013-2017).
+I was previously a Postdoctoral Research Fellow in the <a href="https://www.ucl.ac.uk/cosmoparticle">Cosmoparticle Initiative</a> at University College London (2021-2024). I did my PhD in Theoretical Physics at King's College London (2017-2021), and my MA and MSci in Natural Sciences at the University of Cambridge (2013-2017).
 </p>
 </div>
